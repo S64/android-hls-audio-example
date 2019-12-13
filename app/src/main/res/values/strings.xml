@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">android-hls-audio-example</string>
+    <string name="network_warn">Heads up! Your network is unstable or unreachable. Source was thrown an exception.</string>
+    <string name="stream_completed">Stream completed. Source was released.</string>
+    <string name="playback_aborted">Playback aborted. Player was thrown an exception</string>
+    <string name="ready">Player is ready. You can now start playing!</string>
+    <string name="now_buffering">Now buffering...</string>
+    <string name="playback_ended_successfully">Playback ended successfully. You can load next stream!</string>
+    <string name="default_hls_url">https://example.com/hls.m3u8</string>
+
+</resources>
